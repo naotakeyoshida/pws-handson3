@@ -1,4 +1,6 @@
 ---
 applications:
 - memory: 128M
+  name: green-app
+  host: new-web
   domain: cfapps.io
