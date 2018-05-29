@@ -2,5 +2,5 @@
 applications:
 - memory: 128M
   name: bule-app
-  host: old-web
+  host: pro-web
   domain: cfapps.io
