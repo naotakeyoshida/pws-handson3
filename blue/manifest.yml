@@ -1,4 +1,6 @@
 ---
 applications:
 - memory: 128M
+  name: bule-app
+  host: pro-web
   domain: cfapps.io
